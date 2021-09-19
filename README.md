@@ -28,7 +28,7 @@ How can you use the library?
    with the parameter of A matrice (state matrice) and B matrice (input matrice). x is a vector representing states and u is an input vector.
  - You can set the whole parameters related to discrete sampling period and you wil get time response of system in both console and text file.
 
-For more detailed information about us,
+For more detailed information about us,   
 
   http://www.phinitelab.com/
   https://www.udemy.com/user/phinite-academy/
